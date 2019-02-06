@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">游戏</string>
+    <string name="game_title">战斗坦克</string>
+    <string name="button_launchgame">开始游戏</string>
+    <string name="button_exit">出口</string>
+    <string name="language_already_selected">已经选择了中文！</string>
+    <string name="option_turn_bg_music_off">背景音乐</string>
+    <string name="option_turn_sfx_off">声音特效</string>
+    <string name="options_headline">选项</string>
+    <string name="text_off">离</string>
+    <string name="text_on">上</string>
+    <string name="distance">距离</string>
+    <string name="best">最好</string>
+    <string name="press_to_start">按开始</string>
+    <string name="slide_up">接触坦克以便移动</string>
+    <string name="slide_down">下面 - 向下移动</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Игра</string>
+    <string name="game_title">Боевой танк</string>
+    <string name="button_launchgame">Запустить игру</string>
+    <string name="button_exit">Выход</string>
+    <string name="language_already_selected">Русский язык уже выбран!</string>
+    <string name="option_turn_bg_music_off">Фоновая музыка</string>
+    <string name="option_turn_sfx_off">Звуковые эффекты</string>
+    <string name="options_headline">Настройки</string>
+    <string name="text_off">выкл</string>
+    <string name="text_on">вкл</string>
+    <string name="distance">ДИСТАНЦИЯ</string>
+    <string name="best">РЕКОРД</string>
+    <string name="press_to_start">ЖМИ ЧТОБЫ НАЧАТЬ</string>
+    <string name="slide_up">КОСНИСЬ ВЫШЕ ТАНКА ЧТОБЫ ПЕРЕМЕЩАТЬСЯ ВВЕРХ</string>
+    <string name="slide_down">НИЖЕ - ЧТОБЫ ПЕРЕМЕЩАТЬССЯ ВНИЗ</string>
+</resources>

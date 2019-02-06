@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">@string/game_title</string>
+    <string name="game_title">Battle Tank</string>
+    <string name="button_launchgame">Launch Game</string>
+    <string name="button_exit">Exit</string>
+    <string name="title_image" translatable="false">Title Image</string>
+    <string name="button_language" translatable="false">Change Language</string>
+    <string name="language_en" translatable="false">English</string>
+    <string name="language_zh" translatable="false">中国</string>
+    <string name="language_ru" translatable="false">Русский</string>
+    <string name="language_already_selected">English language already selected!</string>
+    <string name="option_turn_bg_music_off">Background Music</string>
+    <string name="option_turn_sfx_off">Sound Effects</string>
+    <string name="options_headline">Options</string>
+    <string name="text_off">off</string>
+    <string name="text_on">on</string>
+    <string name="distance">DISTANCE</string>
+    <string name="best">BEST</string>
+    <string name="press_to_start">PRESS TO START</string>
+    <string name="slide_up">TOUCH ABOVE THE TANK TO MOVE UP</string>
+    <string name="slide_down">BELOW - TO MOVE DOWN</string>
+</resources>
